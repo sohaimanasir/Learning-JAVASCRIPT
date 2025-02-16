@@ -37,3 +37,14 @@ for(let t= 1; t<=5; t++){
     }
     console.log("J = " + t);
 }
+
+//We can write multiple tables too
+
+for (let i = 1; i<=10; i++){
+    console.log(`Table of: ${i}`);
+    for(j = 1; j<=10 ; j++){
+        console.log(`${i} * ${j} = ${i*j}`);
+        
+    }
+    
+}

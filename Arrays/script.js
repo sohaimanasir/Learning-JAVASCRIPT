@@ -24,7 +24,7 @@ objectData [2]={
 }
 console.log(objectData);
 
-//ARRAY PUSH METHOD (We can push than one elements, it will arrange it in sequence)
+//ARRAY PUSH METHOD (We can push more than one elements, it will arrange it in sequence)
 
 objectData.push({
     userName: "xyz",

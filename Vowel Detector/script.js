@@ -10,9 +10,10 @@ if (y){
 else if (!y){
     document.write("This is a consonant.");
 }
-else if (!isNaN){
+else if (y==null || y==undefined || y== 0 || y=="" || y==!NaN){
     Document.write("Invalid input!! I asked for an alphabet🙄")
 }
+
 
 
  
