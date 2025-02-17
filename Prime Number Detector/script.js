@@ -21,5 +21,4 @@ for (i=2; i<= num; i++){
 
 }
 
-// console.log(45%3);
 
