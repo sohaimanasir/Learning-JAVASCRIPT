@@ -11,12 +11,13 @@ for (i=2; i<= num; i++){
         
         break;
     }
-    else if (num%i!==0){
+    else if (num===i){
         console.log("Its a Prime Number");
         break;
     }
     else{
         console.log("Enter a number");
+        break;
     }
 
 }
